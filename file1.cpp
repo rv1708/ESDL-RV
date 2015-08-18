@@ -1,6 +1,7 @@
 #include<iostraem.h>
 int main()
 {
-cout<<"Welcome";
+cout<<"\n";
+cout<<"Hello World";
 return 0;
 }
